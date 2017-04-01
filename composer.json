@@ -1,5 +1,5 @@
 {
-    "name": "ibmjstart/wp-bluemix-objectstorage",
+    "name": "nasserd/wp-bluemix-objectstorage",
     "description": "WordPress plugin to use IBM Object Storage for media",
     "type": "wordpress-plugin",
     "keywords": [
@@ -10,7 +10,7 @@
         "storage"
     ],
 
-    "homepage": "https://github.com/ibmjstart/",
+    "homepage": "https://github.com/nasserd/",
     "license": "GPLv3",
     "require": {
         "php-opencloud/openstack": "~2.0"
